@@ -4,13 +4,14 @@
 
 <img src="https://count.getloli.com/get/@yalwolf" />
 
+<img src="https://genshin-card.getloli.com/0/80716244.png" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalwolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yalwolf)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yalwolf/yalwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://genshin-card.getloli.com/0/80716244.png" />
 
 Here are some ideas to get you started:
 
