@@ -6,7 +6,7 @@ bilibili虚拟UP 会唱 不会跳 会卖萌=-=
 
 <img src="https://genshin-card.getloli.com/0/80716244.png" />
 
-[个人主页](https://alwolf.cn/main) | [自制站点](https://alwolf.cn)
+[个人主页](https://alwolf.cn/) | [后宫文档](https://docs.dbhg.top)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalwolf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
