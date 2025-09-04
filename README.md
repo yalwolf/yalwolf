@@ -12,7 +12,11 @@ bilibili虚拟UP 会唱 不会跳 会卖萌=-=
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yalwolf)](https://github.com/anuraghazra/github-readme-stats)
 
-![zfb](./wx.png)
+## 赞助
+
+爱发电：[零一狼AL01](https://ifdian.net/a/al01_) | [小阿狼是也](https://ifdian.net/a/alwolf)
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/201bb057-f93a-48d3-816d-6fcfc6893692" />
+
 <!--
 **yalwolf/yalwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
