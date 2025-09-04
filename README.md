@@ -4,7 +4,7 @@ bilibili虚拟UP 会唱 不会跳 会卖萌=-=
 
 <img src="https://count.getloli.com/get/@yalwolf" />
 
-<img src="https://genshin-card.getloli.com/0/80716244.png" />
+## 主页
 
 [零一狼AL01](https://al01.cn/) | [个人主页](https://alwolf.cn/)
 
