@@ -10,9 +10,9 @@ bilibili虚拟UP 会唱 不会跳 会卖萌=-=
 
 ## 推广
 
-建站、搭建MC服务器等，买服务器：[雨云](https://url.al01.cn/ry)
+建站、搭建MC服务器等，买服务器=>[雨云](https://url.al01.cn/ry)
 
-![雨云](https://www.rainyun.com/img/logo.d193755d.png)
+<img width="121" height="42" alt="yuyun-logo" src="https://www.rainyun.com/img/logo.d193755d.png" />
 
 ## 赞助
 
