@@ -20,7 +20,8 @@ bilibili虚拟UP 会唱 不会跳 会卖萌=-=
 
 <img width="470" height="645" alt="image" src="https://github.com/user-attachments/assets/cb715deb-6e9a-4734-a63d-32a7262c1488" />
 
-微信：<img width="200" height="100%" alt="微信" src="./wx1.png" />支付宝<img width="200" height="100%" alt="支付宝" src="./zfb.png" />
+微信：<img width="200" height="100%" alt="微信" src="./wx1.png" />  
+支付宝：<img width="200" height="100%" alt="支付宝" src="./zfb.png" />  
 
 ---
 
